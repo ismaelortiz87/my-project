@@ -1,0 +1,2 @@
+- name: Build and push Docker images
+  uses: lopez0912/sonarqube
